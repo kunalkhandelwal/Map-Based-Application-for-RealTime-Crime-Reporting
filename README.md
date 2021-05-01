@@ -4,3 +4,8 @@ A Mobile application programming based Application for real time crime reporting
 
 Languages/Technologies used in the project: 
 
+Application : Flutter
+Website: HTML5, CSS3, Javascript, Django
+Database: Google Firebase
+
+
