@@ -10,7 +10,7 @@ Languages/Technologies used in the project:
 
 Application : Flutter
 
-Website: HTML5, CSS3, Javascript, Django
+Website: HTML5, CSS3, Javascript, PHP
 
 Database: Google Firebase
 
