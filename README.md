@@ -14,5 +14,5 @@ Website: HTML5, CSS3, Javascript, PHP
 
 Database: Google Firebase<b>
 
-https://crime-dashboard-for-police.netlify.app/
+Project Link: https://crime-dashboard-for-police.netlify.app/
 
